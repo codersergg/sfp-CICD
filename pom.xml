@@ -206,6 +206,7 @@
                             <nodeVersion>v4.6.0</nodeVersion>
                             <npmVersion>2.15.9</npmVersion>
                             <workingDirectory>src/frontend</workingDirectory>
+                            <installDirectory>target</installDirectory>
                         </configuration>
                         <executions>
                             <execution>
