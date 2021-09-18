@@ -204,6 +204,8 @@
                         <version>1.12.0</version>
                         <configuration>
                             <nodeVersion>v4.6.0</nodeVersion>
+                            <npmVersion>2.15.9</npmVersion>
+                            <downloadRoot>https://myproxy.example.org/nodejs/</downloadRoot>
                             <workingDirectory>src/frontend</workingDirectory>
                         </configuration>
                         <executions>
