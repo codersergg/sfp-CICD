@@ -14,7 +14,7 @@
     <name>demo</name>
     <description>Demo project for Spring Boot</description>
     <properties>
-        <java.version>16</java.version>
+        <java.version>15</java.version>
         <app.image.name>springboot-react-fullstack</app.image.name>
         <app.image.tag/>
     </properties>
@@ -150,7 +150,7 @@
                         <version>3.1.4</version>
                         <configuration>
                             <from>
-                                <image>openjdk:16</image>
+                                <image>openjdk:15</image>
                             </from>
                             <container>
                                 <ports>
