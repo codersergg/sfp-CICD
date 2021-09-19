@@ -11,7 +11,7 @@ import {
     Badge,
     Tag,
     Avatar,
-    Radio, Popconfirm
+    Radio, Popconfirm, Divider
 } from 'antd';
 
 import {
@@ -222,6 +222,13 @@ function App() {
                 </div>
             </Content>
             <Footer style={{textAlign: 'center'}}>By Codersergg</Footer>
+            <Divider>
+                <a
+                    target="_blank"
+                    href="https://amigoscode.com/courses/enrolled/553022">
+                    Click here
+                </a>
+            </Divider>
         </Layout>
     </Layout>
 }
