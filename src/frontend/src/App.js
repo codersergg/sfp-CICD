@@ -224,12 +224,15 @@ function App() {
             <Footer style={{textAlign: 'center'}}>By Codersergg</Footer>
             <Divider>
                 <a
+                    rel="noopener noreferrer"
                     target="_blank"
-                    href="https://amigoscode.com/courses/enrolled/553022">
-                    Click here
+                    href="https://amigoscode.com/p/full-stack-spring-boot-react">
+                    Click here to access Fullstack Spring Boot & React for professionals
                 </a>
             </Divider>
+
         </Layout>
     </Layout>
 }
+
 export default App;
