@@ -221,16 +221,16 @@ function App() {
                     {renderStudents()}
                 </div>
             </Content>
-            <Footer style={{textAlign: 'center'}}>By Codersergg</Footer>
-            <Divider>
-                <a
-                    rel="noopener noreferrer"
-                    target="_blank"
-                    href="https://amigoscode.com/p/full-stack-spring-boot-react">
-                    Click here to access Fullstack Spring Boot & React for professionals
-                </a>
-            </Divider>
-
+            <Footer style={{textAlign: 'center'}}> --- By Codersergg ---
+                <Divider>
+                    <a
+                        rel="noopener noreferrer"
+                        target="_blank"
+                        href="https://amigoscode.com/p/full-stack-spring-boot-react">
+                        Click here to access Fullstack Spring Boot & React for professionals
+                    </a>
+                </Divider>
+            </Footer>
         </Layout>
     </Layout>
 }
