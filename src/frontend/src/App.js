@@ -221,7 +221,7 @@ function App() {
                     {renderStudents()}
                 </div>
             </Content>
-            <Footer style={{textAlign: 'center'}}> --- By Codersergg ---
+            <Footer style={{textAlign: 'center'}}> ----- By Codersergg -----
                 <Divider>
                     <a
                         rel="noopener noreferrer"
